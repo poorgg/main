@@ -1,0 +1,145 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/animegirl.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 955px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: StretchProBasicDemo;
+  background-image: none;
+  font-size: 4.6875rem;
+  margin: 132px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: GothamBold;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 54px;
+  min-height: 16px;
+  width: 246px;
+  min-width: 94px;
+  margin: 9px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 54px;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 54px;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 54px;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 54px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 87px;
+  width: 978px;
+  margin: 21px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1053px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -10px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 11px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    height: auto;
+    margin-top: 24px;
+    margin-right: 11px;
+    margin-left: -11px;
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 827px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 7px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 720px;
+    margin-top: 28px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 827px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 620px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: auto;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 869px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    width: auto;
+    margin-top: 236px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-top: 21px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}@font-face {
+  font-family: 'StretchProBasicDemo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/StretchProBasicDemo.otf);
+}@font-face {
+  font-family: 'GothamBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/GothamBold.ttf);
+}

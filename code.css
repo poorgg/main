@@ -1,0 +1,97 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/code.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 955px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: StretchProBasicDemo;
+  background-image: none;
+  font-size: 4.6875rem;
+  margin: 328px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: GothamBold;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 54px;
+  min-height: 16px;
+  width: 310px;
+  min-width: 120px;
+  margin: 14px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 54px;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 32px;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 54px;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 54px;
+}
+
+.u-section-1 .u-icon-5 {
+  height: 54px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  min-height: 92px;
+  width: 978px;
+  margin: 14px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 827px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    height: auto;
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-custom-html-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-custom-html-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 340px;
+  }
+}@font-face {
+  font-family: 'StretchProBasicDemo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/StretchProBasicDemo.otf);
+}@font-face {
+  font-family: 'GothamBold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/GothamBold.ttf);
+}
